@@ -3,15 +3,15 @@ import java.util.*;
 
 public class Boilerplate {
 	
-	//add function
+	//BEGIN FUNCTION
 	public int add(int x, int y) {
 		return x+y;
 	}// END FUNCTION
 	
-	//main run function
+	//MAIN FUNCTION
 	public static void main(String[] args) throws IOException {
-		// initialize file I/O
-		String problemName = "boilerplate";
+		// init file I/O
+		String problemName = "boilerplate"; //CHANGE ME
 		BufferedReader br = new BufferedReader(new FileReader(problemName + ".in")); //take input file
 		PrintWriter pw = new PrintWriter(new BufferedWriter(new FileWriter(problemName + ".out"))); //output file
 		StringTokenizer st = new StringTokenizer(br.readLine());
