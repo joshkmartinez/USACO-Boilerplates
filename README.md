@@ -16,3 +16,6 @@ Do this every time the file is changed
 
 ## python
 I seldom use Python to solve USACO training and contest problems. I have yet to publish my boilerplate for this.   
+
+# USACO notes  
+***THE SAMPLE OUTPUT DOESN'T ALWAYS GO WITH THE SMAPLE INPUT***

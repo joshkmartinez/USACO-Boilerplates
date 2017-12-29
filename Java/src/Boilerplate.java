@@ -1,6 +1,8 @@
 import java.io.*;
 import java.util.*;
 
+// NOTE THE SAMPLE OUTPUT DOESN'T ALWAYS GO WITH THE SMAPLE INPUT
+
 public class Boilerplate {
 	
 	//BEGIN FUNCTION
