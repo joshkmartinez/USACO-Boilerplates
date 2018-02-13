@@ -1,7 +1,7 @@
-# USACO Boilerplates
+# My USACO Boilerplates
 
 ## java
-Currently I have 1 working Boilerplate that I use in competion. That is my java boilerplate.
+Currently I have 1 working Boilerplate that I use in competition. That is my java boilerplate.
 
  * #### notes:
  * Run a java file by first compiling the file with:  
@@ -18,4 +18,4 @@ Do this every time the file is changed
 I seldom use Python to solve USACO training and contest problems. I have yet to publish my boilerplate for this.   
 
 # USACO notes  
-***THE SAMPLE OUTPUT DOESN'T ALWAYS GO WITH THE SMAPLE INPUT***
+***THE SAMPLE OUTPUT DOESN'T ALWAYS GO WITH THE SAMPLE INPUT***
